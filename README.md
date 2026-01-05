@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <h2 align='left'>📊 GitHub Stats</h2>
 
+<p align="center">
 <a href="https://github.com/YutharsanS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutharsanS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=YutharsanS&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YutharsanS&layout=compact&langs_count=8&theme=nord"/>
 </a>
+</p>
 
-<a href="https://github.com/YutharsanS/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YutharsanS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yutharsan's GitHub Stats" />
-</a>
 
